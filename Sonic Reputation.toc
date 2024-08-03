@@ -1,0 +1,12 @@
+﻿## Interface: 100207, 110000
+## Title: Sonic Reputation
+## Title-zhCN: |cFF0099FF[世界]|c0066FFFFSonic Reputation声望显示格式|r
+## Notes-zhCN: |cFF34A2F7使声望提示的更加易看!
+## Version: 1.01 (2016.9.5 for 7.0)
+## Author: 小刺猬
+SR.lua
+
+
+
+
+
